@@ -98,6 +98,7 @@ public class GameManager : MonoBehaviour
 
         }
 
+        //Llamamos a retry
         Retry();
 
     }
